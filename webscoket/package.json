@@ -1,0 +1,23 @@
+{
+    "name": "webscoket",
+    "version": "1.0.0",
+    "type": "commonjs",
+    "main": "webscoket.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "mysql": "^2.18.1",
+        "nodejs-websocket": "^1.7.2",
+        "ws": "^8.14.1"
+    },
+    "devDependencies": {
+        "@types/mysql": "^2.15.22",
+        "@types/node": "^20.6.2",
+        "@types/ws": "^8.5.5"
+    },
+    "keywords": [],
+    "description": ""
+}
